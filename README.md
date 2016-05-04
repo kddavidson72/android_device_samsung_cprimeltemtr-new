@@ -1,2 +1,2 @@
-# android_device_samsung_fortuna3g
-Device tree for Samsung Galaxy Grand Prime (SM-G530H)
+# android_device_samsung_cprimeltemtr
+Device tree for Samsung Galaxy Core Prime (G360T/G360T1).
