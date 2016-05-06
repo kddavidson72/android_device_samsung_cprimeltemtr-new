@@ -20,3 +20,4 @@
 # function: add_lunch_combo generic-eng
 
 add_lunch_combo cm_cprimeltemtr-userdebug
+add_lunch_combo cm_cprimeltemtr-eng

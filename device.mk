@@ -13,6 +13,6 @@
 # limitations under the License.
 #
 
-# Inherit from fortuna-common
+# Inherit from coreprimelte-common
 $(call inherit-product, device/samsung/coreprimelte-common/coreprimelte-common.mk)
 
