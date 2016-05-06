@@ -11,7 +11,7 @@ Once you setup a build environment, initialize the CyanogenMod repo in your work
 > repo init -u https://github.com/CyanogenMod/android.git -b cm-12.1
 
 Next, initialize the device repositories, using this command:
-> curl --create-dirs -L -o .repo/local_manifests/local_manifest.xml -O -L https://raw.githubusercontent.com/PlatinumMaster/android_local_manifest-cprimeltemtr/cm-12.1/local_manifest.xml
+> curl --create-dirs -L -o .repo/local_manifests/local_manifest.xml -O -L https://raw.githubusercontent.com/PlatinumMaster/android_local_manifest-cprimeltemtr/cm-12.1-pilot/local_manifest.xml
 
 Finally, to start syncing, run this command:
 > repo sync
