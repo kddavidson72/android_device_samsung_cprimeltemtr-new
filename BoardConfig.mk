@@ -27,6 +27,6 @@
 TARGET_OTA_ASSERT_DEVICE     := cprimeltemtr
 
 # Kernel
-TARGET_KERNEL_CONFIG 	:= msm8916_sec_defconfig
+TARGET_KERNEL_CONFIG 	       := msm8916_sec_defconfig
 TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_rossa_tmo_defconfig
 TARGET_KERNEL_SELINUX_CONFIG := selinux_defconfig
